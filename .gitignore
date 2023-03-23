@@ -106,3 +106,5 @@ dist
 #git ignore
 .vscode
 
+#package json
+.package.json
